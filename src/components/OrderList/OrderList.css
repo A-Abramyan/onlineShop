@@ -1,0 +1,100 @@
+.orderList{ 
+    height: 600px;
+    width: 100%;
+    /* border:2px solid; */
+    font-family: cursive;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.order{ 
+
+    display: flex;
+    justify-content: space-between;
+    font-family: cursive;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.head{ 
+    text-align: center;
+}
+.headingLabel{
+    display: grid;
+    font-family: cursive;
+    font-size: 25px;
+}
+.formInp{ 
+    width: 310px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 25px;
+    padding-left:5px;
+    margin-left:15px;
+    background-color: white;
+    outline: none;
+    font-family: cursive;
+    font-size: 17px;
+
+  }
+  select{ 
+    width: 317px;
+    height: 38px;
+    border: 1px solid;
+    background-color: white;
+    border-radius: 25px;
+    padding-left:5px;
+    margin-left:15px;
+    outline: none;
+    font-family: cursive;
+    font-size: 17px;
+  }
+  .payDiv{
+    width: 340px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+  .payBtn{
+      background-color: white;
+      width: 70px;
+      height: 30px;
+      border-radius: 15px;
+      outline: none;
+      
+}
+.registrationForm{
+    align-items: center;
+}
+.purchases{ 
+    height: 100%;
+    width: 100%;
+    /* border: 1px solid; */
+    padding-left:5px;
+    margin-left:15px;
+    outline: none;
+    font-family: cursive;
+    font-size: 17px;
+}
+.orderHead{ 
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+}
+table{ 
+    border: 1px solid;
+    width: 100%;
+}
+th{ 
+    border: 1px solid;
+}
+td{
+    border: 1px solid;
+}
+.itemName{
+    text-align: center;
+}
+.total{ 
+    width: 100%;
+    text-align: end;
+}

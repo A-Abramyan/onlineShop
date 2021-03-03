@@ -1,0 +1,26 @@
+.info{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(199, 199, 204, 0.918);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+}
+.infoImg{
+    margin: 10px;
+}
+.description{
+    font-size: 25px;
+    font-family: cursive;
+}
+.count{
+    font-size: 20px;
+}
+.stock{
+    width: 200px;
+    margin: 3px;
+    padding-left: 3px;
+    background-color: rgb(176, 181, 187);
+    border-radius: 25px;
+    border:1px solid;
+}

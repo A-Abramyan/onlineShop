@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Product 1",
+    "description": "Awesome product 1, long description",
+    "price": "29$",
+    "img": "https://via.placeholder.com/250/000000/FFFFFF/?text=watch",
+    "count": 3
+  },
+  {
+    "id": 2,
+    "title": "Product 2",
+    "description": "Awesome product 2, long description ",
+    "price": "29$",
+    "img": "https://via.placeholder.com/250/FFFFFF/FFFFFF/?text=shoes",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "title": "Product 3",
+    "description": "Awesome product 3, long description",
+    "price": "29$",
+    "img": "https://via.placeholder.com/250/008800/FFFFFF/?text=shirt",
+    "count": 12
+  },
+  {
+    "id": 4,
+    "title": "Product 4",
+    "description": "Awesome product 4, long description",
+    "price": "29$",
+    "img": "https://via.placeholder.com/250/FF0000/FFFFFF/?text=gloves",
+    "count": 3
+  },
+  {
+    "id": 5,
+    "title": "Product 5",
+    "description": "Awesome product 5, long description",
+    "price": "12$",
+    "img": "https://via.placeholder.com/250/000000/FFFFFF/?text=jeans",
+    "count": 11
+  },
+  {
+    "id": 6,
+    "title": "Product 6",
+    "description": "Awesome product 6, long description",
+    "price": "58$",
+    "img": "https://via.placeholder.com/250/0000FF/FFFFFF/?text=ball",
+    "count": 53
+  },
+  {
+    "id": 7,
+    "title": "Product 7",
+    "description": "Awesome product 7, long description",
+    "price": "9$",
+    "img": "https://via.placeholder.com/250/008800/FFFFFF/?text=shirt",
+    "count": 17
+  },
+  {
+    "id": 8,
+    "title": "Product 8",
+    "description": "Awesome product 8, long description",
+    "price": "23$",
+    "img": "https://via.placeholder.com/250/000000/FFFFFF/?text=hat",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "title": "Product 9",
+    "description": "Awesome product 9, long description ",
+    "price": "19$",
+    "img": "https://via.placeholder.com/250/0000FF/FFFFFF/?text=bottle",
+    "count": 17
+  },
+  {
+    "id": 10,
+    "title": "Product 10",
+    "description": "Awesome product 10, long description",
+    "price": "99$",
+    "img": "https://via.placeholder.com/250/FFFFFF/FFFFFF/?text=glasses",
+    "count": 0
+  }
+]

@@ -1,0 +1,17 @@
+html{ 
+  background-color: rgba(199, 199, 204, 0.918);
+}
+#root{
+  height: 100%;
+  width: 1550px;
+  padding-left: 20px;
+   /* background-color: rgba(199, 199, 204, 0.918); */
+}
+.onlineStore {
+  height: 100%;
+  width: 100%;
+}
+.content{ 
+  display: flex;
+  justify-content: center;
+}

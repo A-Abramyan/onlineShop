@@ -1,0 +1,80 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+}
+
+.logo{
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+}
+.favoriteButton{
+    width: 35px;
+    height: 30px;
+}
+.selectedProduct{
+    margin-right: 5px;;
+    width: 30px;
+    height: 30px;
+}
+.search{
+    display: flex;
+    height: 40px;
+}
+.headerBtn{ 
+    width: 50px;
+ 
+}
+.orderListIcon{ 
+    margin-right: 5px;;
+    width: 30px;
+    height: 30px;
+}
+.fvtBng{ 
+    display: flex;
+}
+.searchInput{
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    font-family: cursive;
+    font-size: 17px;
+    border:none;
+    outline: none;
+    background-color: rgba(253, 251, 251, 0.918);
+    width: 400px;
+    height: 35px;
+}
+.searchBtn{
+    background-color: rgba(253, 251, 251, 0.918);
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: cover;
+    outline: none;
+    border:none;
+    width: 37px;
+    height: 37px;
+    background-image: url(https://img.icons8.com/pastel-glyph/2x/search--v2.png);
+}
+.searchBtn:active {
+    background-color: rgb(231, 231, 227);
+    width: 39px;
+  } 
+  .favoriteButton:active{
+    height: 28px;
+ }
+ .orderListIcon:active{ 
+    height: 31px;
+ }
+  .selectedProduct:active{
+    height: 28px;
+ }
+  .logo:active{
+    height: 155px;
+ }
+ .selectCount{
+     background-color: tomato;
+ }
+ 
